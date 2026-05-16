@@ -1,2 +1,2 @@
 # todo-list
-A simple to do list built with Python📝
+A simple to-do list built with Python📝
